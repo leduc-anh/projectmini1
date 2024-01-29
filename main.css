@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    font-size: 62.5%;
+}
+.thanh-taskbar {
+        float: left;
+        background-color: #00d0ff;
+        width: 100%;
+        margin-bottom: 20px;
+}
+.box-taskar-1 {
+    float: left;
+    padding: 2rem 2rem 1.5rem 2rem;
+    background-color: orange;
+    color: white;
+    font-size: 2rem;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-left: 2rem;
+}
+.box-taskar-2 {
+    float: left;
+    padding: 2rem 2rem 1.5rem 2rem;
+    color: white;
+    font-size: 2rem;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+a:hover {
+    background-color: orange;
+}
+h1 {
+    font-size: 36px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 500;
+    line-height: 1.1;
+    margin-top: 20px;
+}
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+    margin-bottom: 20px;
+    margin-left: 15px;
+}
+h3 {
+    font-size: 24px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 500;
+    line-height: 1.1;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+h4{
+    font-size: 18px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 500;
+    line-height: 1.1;
+    margin-top: 20px;
+}
+image {
+    margin-bottom: 50px;
+}
+.ket-thuc {
+    margin-top: 30px;
+}
+p {
+    margin: 0 0 10px;
+}
